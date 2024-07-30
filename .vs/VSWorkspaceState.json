@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Services",
+    "\\Services\\EmailService",
+    "\\Services\\EmailService\\test"
+  ],
+  "SelectedNode": "\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}
